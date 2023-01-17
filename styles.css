@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css?family=Kanit:300,400');
+
+body{
+    background-color:rgb(245, 238, 238);
+    font-family: Kanit;
+    padding: 0 0 10%;
+}
+
+nav{
+    display: inline-flex;
+    gap:17%;
+}
+
+
+.nav1,.nav2,.nav3,.nav4,.nav5,.nav6{
+    
+    text-decoration: none;
+}
+.n1{
+    margin-left: 50%;
+}
+.heads{
+    margin-left: 14%;
+    
+    
+}
+.n6{
+    margin-top: 9%;
+}
+
+
+
+
+
+.heads{
+    color:darkred;
+    font-size: x-large;
+    
+    
+    
+}
+.nav1{
+    color:darkred;
+}
+.n1,.n2,.n3,.n4,.n5{
+    margin-top:6%;
+}
+
+h1{
+    text-align: center;
+}
+
+.imagee{
+    height:80%;
+    width:80%;
+}
+.image{
+    margin-left:18%;
+    margin-right: 2%;
+}
+.stext1{
+    text-align: center;
+    margin-left:20%;
+    margin-right:20%;
+}
+.abouttext{
+    color:darkred;
+    margin-left: 12%;
+    margin-bottom: -2%;
+}
+.Solution{
+    margin-left: 12%;
+}
+h2{
+    font-size:xx-large;
+}
+.content1{
+    text-align: right;
+    margin-left:20%;
+    margin-right:18%;
+}
+.parallel1{
+    display: inline-flex;
+}
+.globe{
+    height: 65px;
+    width: 65px;
+}
+.folder{
+    height: 65px;
+    width: 65px;
+}
+.key{
+    height: 65px;
+    width: 65px;
+}
+.cards{
+    display: inline-flex;
+    margin-left: 12%;
+    margin-right: 4%;
+    gap:4%;
+    
+    
+}
+.card1,.card2,.card3{
+    background-color: rgb(255, 255, 255);
+    border-radius: 5%;
+    padding:1%;
+    
+}
+.buttons{
+    display: inline-flex;
+    gap:40%;
+    margin-left: 43%;
+    
+}
+.butt1,.butt2{
+    text-decoration: none;
+}
+.button1{
+    background-color:rgb(139,0,0,0.8);
+    padding:10%;
+    border-radius: 5%;
+}
+.button2{
+    background-color:rgba(217, 182, 182, 0.8);
+    padding:10%;
+    border-radius: 5%;
+}
+.butt1,.nav6{
+    color:rgb(255, 255, 255);
+}
+.butt2{
+    color:rgb(0,0,0);
+}
+.n6{
+    background-color:rgb(139,0,0,0.8);
+    height:16%;
+    width:16%;
+    margin-left: 40%;
+    border-radius: 5%;
+    padding: 1% 7% 0%;
+    text-align: center;
+    
+    
+    
+}
+
+
+
+
+
+
+
